@@ -1,5 +1,5 @@
 -  Hi, I’m @Hanan-Mumtaz
--  I’m currently learning Full-Stack Devolpment using React-Native, ASP.Net API and MongoDB for my project.
+-  I’m currently learning Ai along with Full Stack Development using React-Native, ASP.Net API and MongoDB for my project.
 - How to reach me; You can message me on my LinkedIn profile given in my bio.
 
 <!---
